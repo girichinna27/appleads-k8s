@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: petclinic
-        image: docker.io/opsmx11/dev-petclinic-apple:41-nocritical
+        image: docker.io/opsmx11/dev-petclinic-apple:49-nocritical
         ports:
         - containerPort: 8080
         resources:
